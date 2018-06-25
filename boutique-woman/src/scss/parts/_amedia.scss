@@ -1,0 +1,503 @@
+
+@media screen and (max-width: 1360px) {
+
+    .why-with-us__wrapper__item {
+        width: 100%;
+        max-width: 400px;
+        margin: 60px 20px 0;
+    }
+
+    .allowance__wrapper__item {
+        margin: 20px;
+    }
+
+    .allowance__wrapper__item__line-img-block__double-lines-right-center, .allowance__wrapper__item__line-img-block__double-lines-right, .allowance__wrapper__item__line-img-block__double-lines-left, .allowance__wrapper__item__line-img-block__double-lines-left-center {
+        display: none;
+
+    }
+
+    .instruction__wrapper-left__item__inner {
+        max-width: 100%;
+    }
+
+    .width-60 {
+        width: 100%;
+    }
+
+
+    .instruction {
+
+        .right-triangle-style {
+            display: none;
+        }
+        .container-1440 {
+            padding: 0 20px;
+        }
+
+        &__wrapper-left {
+            padding: 0 20px;
+        }
+    }
+
+    .main-image  {
+        h2 {
+            font-size: 160px;
+            padding-right: 40px;
+        }
+
+        h4 {
+            padding-right: 20px;
+        }
+    }
+
+    .main-image {
+        padding: 30px 20px 60px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .choose-training-plan__wrapper__item__header {
+        background-image: url(../images/gradient-bg-item.png);
+        background-size: cover;
+        padding: 20px 20px 30px;
+        background-position: center;
+    }
+}
+
+@media screen and (max-width: 1028px) {
+
+    .main-image  {
+        h2 {
+            font-size: 140px;
+            padding-right: 40px;
+            text-align: center;
+        }
+
+        h4 {
+            padding-right: 20px;
+            text-align: center;
+        }
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    .what-you-give__wrapper__item:nth-child(7) {
+        margin-top: -2px;
+        position: relative;
+        top: -7px;
+    }
+
+    .what-you-give__wrapper__item:nth-child(8) {
+        margin-top: -4px;
+        position: relative;
+        top: -11px;
+    }
+
+    .what-you-give__wrapper__item:nth-child(6) {
+        margin-top: 1px;
+        top: -5px;
+        position: relative;
+    }
+
+    .what-you-give__wrapper__item:first-child {
+        margin-top: 10px;
+    }
+
+    .what-you-give__wrapper__item img {
+        width: 110px;
+    }
+
+
+
+    .what-you-give__wrapper__item:nth-child(4) {
+        margin-top: -11px;
+    }
+
+    .footer-info__wrapp__info ul li span {
+        font-size: 16px;
+    }
+
+    .footer-info__wrapp__info ul li strong {
+        font-size: 18px;
+    }
+
+    .footer-info .container-1440 {
+
+        padding: 100px 20px;
+        flex-wrap: wrap-reverse;
+        -webkit-box-align: center;
+        justify-content: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+
+    .faq {
+        padding-bottom: 50px;
+    }
+
+    .participate__form-wrapper {
+        margin: 50px auto 0;
+        padding: 20px;
+    }
+
+    .participate {
+        padding-bottom: 60px;
+        .title-noodle {
+            margin-top: 50px;
+        }
+    }
+
+    .choose-training-plan__wrapper {
+        margin-top: 25px;
+    }
+
+    .choose-training-plan {
+        padding-bottom: 45px;
+        .title-noodle {
+            margin-top: 50px;
+        }
+    }
+
+    .choose-training-plan__wrapper__item  {
+        .p-30 {
+            padding: 10px 20px 20px;
+        }
+    }
+
+    .choose-training-plan__wrapper__item__content ul li span {
+        font-size: 14px;
+    }
+
+    .choose-training-plan__wrapper__item__content {
+        margin-top: 0px;
+        padding: 20px;
+    }
+
+    .choose-training-plan__wrapper__item__header__description p {
+        font-size: 22px;
+    }
+
+    .footer-info__wrapp {
+        justify-content: center;
+    }
+
+    .behind-wrpp {
+        display: none;
+
+    }
+
+    .coach {
+        .container-1280 {
+            padding: 0 20px;
+        }
+    }
+
+    .allowance__wrapper {
+
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+    .title-noodle {
+        font-size: 55px;
+    }
+
+    .txt-shadow:before {
+        font-size: 50px;
+    }
+
+    .instruction h4, .instruction__wrapper-left__item__inner p, .coach__description, .advice__description, .advice__form-wrapper__description {
+        font-size: 18px;
+    }
+    .instruction__wrapper-left__item__inner {
+        min-height: 55px;
+    }
+
+
+}
+
+@media screen and (max-width: 768px) {
+    #more .modal-dialog, #video .modal-dialog {
+        width: 94%;
+        max-width: none;
+    }
+
+    .coach .container-1280, .why-with-us .container-1440 {
+        margin-top: 0;
+    }
+
+    .progress-line {
+        display: none;
+
+    }
+
+    .instruction {
+        .txt-shadow {
+            margin-top: 30px;
+        }
+    }
+
+    .choose-training-plan__wrapper {
+        justify-content: center;
+        flex-wrap: wrap;
+        &__item {
+            max-width: 400px;
+            width: 100%;
+        }
+    }
+
+
+
+
+    .what-you-give__wrapper {
+        width: 100%;
+        max-width: 630px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .what-you-give {
+        background-image: none;
+        .container-900 {
+            padding: 20px;
+            justify-content: center;
+        }
+    }
+
+
+    .advice {
+        padding-bottom: 80px;
+    }
+    .advice__form-wrapper {
+        padding: 20px;
+        margin: 50px auto 0;
+        form {
+            padding: 0;
+            margin-top: 15px;
+            .form-group {
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    .coach {
+        padding-bottom: 45px;
+        .testimonials-wrapper {
+            margin-top: 55px;
+        }
+    }
+
+
+
+    .for-item-block__content-block {
+        &__title-container {
+            padding: 15px;
+        }
+
+        &__description {
+            padding: 15px;
+        }
+    }
+
+    .allowance {
+        &__wrapper {
+            margin-top: 60px;
+        }
+        .container-1440 {
+            margin-top: 50px;
+        }
+    }
+
+    .why-with-us {
+        padding-bottom: 80px;
+        .container-1440 {
+            margin-top: 50px;
+        }
+    }
+
+    .instruction__wrapper-left {
+        margin-top: 50px;
+    }
+
+    .txt-shadow:before {
+        font-size: 43px;
+        top: 38px;
+        right: 0;
+    }
+
+    .title-noodle {
+        font-size: 45px;
+    }
+
+    .accordion .set>a {
+        font-size: 16px;
+    }
+
+    .participate__form-wrapper form {
+        padding: 0;
+    }
+
+    .coach__testimonials-wrapper .slider-for .for-item-block__full-img {
+
+
+        max-width: 200px;
+        width: 100%;
+        object-fit: contain;
+        top: -115px;
+
+        box-shadow: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .title-noodle {
+        font-size: 37px;
+    }
+
+    .txt-shadow:before {
+        font-size: 36px;
+        top: 30px;
+        right: 0;
+    }
+
+    .width-49 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .coach__testimonials-wrapper .slider-for .for-item-block__content-block__description {
+        padding: 20px 20px 20px;
+    }
+
+    .title-noodle {
+        margin-top: 0;
+    }
+
+    .absolute-block {
+        position: relative;
+    }
+
+    .absolute-bg {
+        display: none;
+    }
+    .choose-training-plan .title-noodle {
+        margin-top: 0;
+    }
+
+    .footer-info .container-1440 {
+        padding: 50px 20px;
+    }
+
+    .what-you-give__wrapper__item:nth-child(even), .what-you-give__wrapper__item:nth-child(odd) {
+        width: 100%;
+        margin: 20px 0 30px;
+    }
+
+    .what-you-give__wrapper__item p {
+        margin: 20px 0 0;
+    }
+
+    .what-you-give__wrapper__item img {
+        margin-right: 0;
+    }
+
+    .what-you-give__wrapper__item:nth-child(odd), .what-you-give__wrapper__item:nth-child(even) {
+        width: 100%;
+        margin: 20px;
+        flex-direction: column;
+    }
+
+    .what-you-give__wrapper__item:nth-child(even) {
+        img {
+            margin-left: 25px;
+        }
+    }
+
+    .what-you-give__wrapper__item:nth-child(odd) {
+        img {
+            margin-right: 25px;
+        }
+    }
+
+    .instruction__wrapper-left__item__inner p {
+        font-size: 16px;
+    }
+
+    .title-noodle {
+        font-size: 38px;
+    }
+
+    .main-image__bottom-content h3 {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .main-image h4 {
+        padding-right: 0;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .main-image h2 {
+        font-size: 45px;
+    }
+
+    .txt-shadow:before {
+        display: none;
+
+    }
+
+    .coach__testimonials-wrapper .slider-for .for-item-block__full-img {
+        width: 100%;
+        -o-object-fit: contain;
+        object-fit: cover;
+        margin-left: 0;
+        max-width: none;
+        height: 100%;
+        top: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+
+    .coach__testimonials-wrapper .slider-for .for-item-block {
+        flex-direction: column-reverse;
+        padding-top: 0;
+    }
+    .main-image {
+        padding: 0 0 200px;
+        position: relative;
+        height: auto;
+        background-size: cover;
+        background-position: center 47px;
+		 .container-1440 {
+            background-color: #fff;
+            padding: 10px;
+        }
+
+        &__bottom-content {
+            width: 100%;
+            h3 {
+                text-align: center;
+				color: #000;
+            }
+        }
+        h2 {
+             font-size: 43px;
+            text-shadow: 2px 0 0 #ef4a70;
+            padding-right: 0;
+            text-align: center;
+        }
+
+        .container-1440, .container-1280 {
+            position: static;
+        }
+
+
+    }
+
+
+
+}
