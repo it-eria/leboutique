@@ -536,9 +536,18 @@ body {
   margin-top: 30px;
   text-decoration: none;
   box-shadow: 0 0 3px #ccc;
+  a {
+	text-decoration: none;
+	outline: none;
+	&:hover {
+	text-decoration: none;
+	
+	}
+  }
   input {
     display: block;
     padding: 3px 10px;
+	outline: none;
     background: #fff;
     cursor: pointer;
     text-align: center;

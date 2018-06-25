@@ -540,11 +540,20 @@ body {
   margin-top: 30px;
   text-decoration: none;
   box-shadow: 0 0 3px #ccc;
+  
+  a {
+	text-decoration: none;
+	outline: none;
+	&:hover {
+		text-decoration: none;
+	}
+  }
   input {
     display: block;
     padding: 3px 10px;
     background: #fff;
     cursor: pointer;
+	outline: none;
     text-align: center;
     color: #000;
     border: none;

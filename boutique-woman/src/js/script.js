@@ -47,10 +47,7 @@ $('.slider-nav').slick({
                 prevArrow: '<div class="left-arrow"><i class="fa fa-chevron-left" aria-hidden="true"></i></div>',
                 nextArrow: '<div class="right-arrow"><i class="fa fa-chevron-right" aria-hidden="true"></i></div>'
             }
-        }
-        // You can unslick at a given breakpoint now by adding:
-        // settings: "unslick"
-        // instead of a settings object
+        }       
     ]
 });
 
