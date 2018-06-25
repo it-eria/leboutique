@@ -177,11 +177,10 @@ body {
 
   background-repeat: no-repeat;
   &__wrapper {
-    display: flex;
-    overflow-x: hidden;
+    display: flex;    
     align-items: flex-end;
     margin-top: 90px;
-    overflow-y: hidden;
+	justify-content: center;
 
     &__item {
       width: 100%;
